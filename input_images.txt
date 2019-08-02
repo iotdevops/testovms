@@ -1,0 +1,3 @@
+images/burger.jpg
+images/fries.jpg
+images/steak.jpg
